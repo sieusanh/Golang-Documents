@@ -1,0 +1,3 @@
+https://www.google.com/search?ei=fpCSX_ygDpe6rQGtgrigBA&q=how+to+get+non+bearer+token+string+http+golang&oq=how+to+get+non+bearer+token+string+http+golang&gs_lcp=CgZwc3ktYWIQAzoECAAQR1C5FVieJGC9JmgAcAJ4AIABhQGIAcMIkgEDNS42mAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwj816iqosrsAhUXXSsKHS0BDkQQ4dUDCAw&uact=5
+
+https://stackoverflow.com/questions/39518237/how-to-extract-and-verify-token-sent-from-frontend

@@ -1,0 +1,5 @@
+https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/
+
+Database machine infos:
+port : 5433
+password: 1

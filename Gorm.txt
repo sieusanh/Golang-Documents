@@ -1,0 +1,3 @@
+https://blog.vietnamlab.vn/2019/09/10/gorm/
+
+https://tutorialedge.net/golang/golang-orm-tutorial/
