@@ -1,0 +1,6 @@
+https://jwt.io/
+
+https://www.sohamkamani.com/golang/2019-01-01-jwt-authentication/
+
+https://blog.indrek.io/articles/invalidate-jwt/
+
