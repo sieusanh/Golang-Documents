@@ -4,3 +4,11 @@ https://www.sohamkamani.com/golang/2019-01-01-jwt-authentication/
 
 https://blog.indrek.io/articles/invalidate-jwt/
 
+--------------------------------------------------------
+
+https://www.google.com/search?source=hp&ei=SPSTX7jWCcT2rQHjuJ7wAg&q=jwt+l%C3%A0+g%C3%AC&oq=jwt+l%C3%A0+g%C3%AC&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoFCAAQsQM6CAgAELEDEIMBUAdY-gZghAhoAnAAeAGAAUSIAdYEkgECMTCYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi4msjR9czsAhVEeysKHWOcBy4Q4dUDCAY&uact=5
+
+https://topdev.vn/blog/jwt-la-gi/
+
+https://topdev.vn/blog/json-web-token-la-gi/
+

@@ -1,0 +1,2 @@
+https://www.google.com/search?ei=bIarX_S0N9O-9QPp2L2QDw&q=load+balancing+golang+nginx&oq=load+balancing+golang+nginx&gs_lcp=CgZwc3ktYWIQAzoGCAAQFhAeOgUIIRCgAToECCEQFToKCCEQChCgARCLAzoHCCEQFRCLA1Dk-AJY7YMDYLqHA2gBcAB4AIABf4gB1QaSAQMzLjWYAQCgAQGqAQdnd3Mtd2l6uAECwAEB&sclient=psy-ab&ved=0ahUKEwj0mq2f8PnsAhVTX30KHWlsD_IQ4dUDCAw&uact=5
+

@@ -1,0 +1,9 @@
+https://www.google.com/search?source=hp&ei=94SrX8z6F4-v9QOJxYfwDA&q=goroutine+http+server&oq=goroutine+http+server&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjoICAAQsQMQgwE6BQgAELEDOgIIADoICC4QsQMQgwE6BQguELEDOggILhCxAxCTAjoCCC46BAgAEAo6BAgAEB46BAgAEBM6CAgAEA0QHhATOggIABANEAUQHjoICAAQCBANEB5QrAZYkjxgyD1oAXAAeACAAWCIAZYLkgECMjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiM0p_t7vnsAhWPV30KHYniAc4Q4dUDCAY&uact=5
+
+https://medium.com/rungo/running-multiple-http-servers-in-go-d15300f4e59f
+
+https://hackernoon.com/smoke-your-server-using-goroutines-zau32au
+
+https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers/
+
+

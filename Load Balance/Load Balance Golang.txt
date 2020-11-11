@@ -1,0 +1,8 @@
+https://www.google.com/search?ei=aYarX5FhxMetAca_hKAG&q=load+balancing+golang&oq=load+balancing+golang&gs_lcp=CgZwc3ktYWIQAzIECAAQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAIEB46BAgAEEc6BggAEA0QHjoICAAQDRAFEB46CAgAEAgQDRAeUNsNWM4VYPQWaABwAngAgAFiiAH_AZIBATOYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjRub-d8PnsAhXEYysKHcYfAWQQ4dUDCAw&uact=5
+
+https://levelup.gitconnected.com/create-a-simple-load-balancer-with-go-4b474460bab2
+
+https://kasvith.me/posts/lets-create-a-simple-lb-go/
+
+https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96
+

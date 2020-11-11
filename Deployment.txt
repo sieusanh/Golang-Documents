@@ -1,0 +1,10 @@
+https://www.google.com/search?source=hp&ei=Vg2dX-qBL-7Wz7sPpJWCeA&q=how+to+deploy+docker+container&oq=how+to+deploy+docker&gs_lcp=CgZwc3ktYWIQAxgAMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATMgQIABATOggIABCxAxCDAToCCAA6BQguELEDOgUIABCxAzoCCC46CAguELEDEIMBOggILhCxAxCTAjoFCC4QkwI6BggAEBYQHlA1WMQrYNU1aABwAHgAgAHGAYgB2A6SAQQxNi40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab
+
+----------------------------------
+
+Heroku
+
+https://medium.com/better-programming/how-to-containerize-and-deploy-apps-with-docker-and-heroku-b1c49e5bc070
+
+https://www.codementor.io/@idreesibraheem/how-to-deploy-a-minimal-docker-app-to-heroku-136rp9223y
+

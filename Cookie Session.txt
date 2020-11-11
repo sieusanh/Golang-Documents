@@ -2,9 +2,17 @@ https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/06.0.ht
 
 https://www.youtube.com/results?search_query=golang+cookie+session
 
-https://www.youtube.com/watch?v=Rv64ZA0UMgY
-
 https://www.youtube.com/watch?v=GWUI5Lf2yZM
 
+https://www.youtube.com/watch?v=Rv64ZA0UMgY
+
 https://www.youtube.com/watch?v=9CyKCNo-Epo
+
+----------------------------------------------------------------------
+
+{ Soham Kamani }
+
+https://www.sohamkamani.com/golang/2019-01-01-jwt-authentication/#running-our-application
+
+https://www.sohamkamani.com/blog/2018/03/25/golang-session-authentication/#running-our-application
 
