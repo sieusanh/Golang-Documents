@@ -1,0 +1,10 @@
+https://www.google.com/search?ei=lyitX4yGOtrXz7sPstmUwAk&q=build+live+stream+golang&oq=build+live+stream+golang&gs_lcp=CgZwc3ktYWIQAzIICCEQFhAdEB46BAgAEEc6CAgAEAgQDRAeUJ5kWLZoYLRpaABwAngAgAFziAGMBJIBAzUuMZgBAKABAaoBB2d3cy13aXrIAQjAAQE&sclient=psy-ab&ved=0ahUKEwjMraKF__zsAhXa63MBHbIsBZgQ4dUDCAw&uact=5
+
+https://www.rohitmundra.com/video-streaming-server
+
+https://mux.com/for/go/
+
+https://qvault.io/2020/09/04/golang-video-stream-server/
+
+https://www.red5pro.com/blog/12-platforms-for-golang-video-streaming/
+
